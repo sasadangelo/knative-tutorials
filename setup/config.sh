@@ -22,7 +22,7 @@
 #export CLUSTER_MASTER_VERSION="latest"
 
 # version of istio
-export ISTIO_VERSION="1.4.2"
+export ISTIO_VERSION="1.4.4"
 
 # knative version
-#export KNATIVE_VERSION="0.12.0"
+export KNATIVE_VERSION="0.12.0"
